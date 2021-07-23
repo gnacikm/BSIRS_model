@@ -1,6 +1,6 @@
 This code can be used to generate the figures from the paper: 
 # Implied infection-cutting behaviour from a spatial game
-available on arxiv [available soon](https://arxiv.org/). 
+available on arxiv at [this url](http://arxiv.org/abs/2107.10576). 
 
 All the code is located in the *code* folder. More details on how to run the code in the notebooks will be available soon. 
 
